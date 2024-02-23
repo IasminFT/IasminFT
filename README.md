@@ -2,7 +2,6 @@
 - 🔭 Tenho experiência como UI/UX Designer e Dev Front-End
 - 👩‍🎓 Graduanda em Sistemas de Informação na UFVJM
 - 🌱 Estudando React.js e Django
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href= "https://github.com/IasminFT">
