@@ -3,6 +3,11 @@
 - 👩‍🎓 Graduanda em Sistemas de Informação na UFVJM
 - 🌱 Estudando React.js e Django
 
+<div>
+  <a href= "https://github.com/IasminFT">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminFT&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Iasmin-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Iasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
