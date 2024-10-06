@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Iasmin :) ##
-- 🔭 UI/UX Designer e Dev Front-End
+- 🔭 UI/UX Designer e Dev Full-stack
 - 👩‍🎓 Graduanda em Sistemas de Informação na UFVJM
-- 🌱 Estudando React.js e Django
+- 🗃️ Scrum Master da Nexter
+- 🌱 Estudando Java
 
 <div>
   <a href= "https://github.com/IasminFT">
