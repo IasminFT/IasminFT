@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Iasmin :) ##
 - 🔭 UI/UX Designer e Dev Full-stack
 - 👩‍🎓 Graduanda em Sistemas de Informação na UFVJM
-- 🗃️ Scrum Master da Nexter
+- 🗃️ Project Manager da Nexter
 - 🌱 Estudando Java
 
 <div>
